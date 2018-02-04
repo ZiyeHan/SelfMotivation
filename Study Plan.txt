@@ -1,0 +1,48 @@
+<< Career: 服务端开发 >>
+
+基本：
+1. Java设计模式网站 --- done
+2. 复习多线程(volatile)，各种锁(配合clean cdodes的附录)，自定义异常，序列化，自定义annotation，枚举 ，反射(http://www.tuicool.com/articles/vEVRvqr, https://www.atatech.org/articles/74552，记到Spring学习文件夹里)，向上转型/向下转型，泛型，多态，接口，StringBuilder和StringBuffer(done)，IO类与原理，对象hashcode(done)
+3. jvm原理，方法堆栈内存，垃圾回收，线程安全，事务处理，《Java性能权威指南》又全又好
+4. ThreadPoolTaskExecutor线程池用法
+5. 常见服务端架构（分布式，异步，集群，消息队列等，用码云上那一个例子来理解透就够了）
+6.《Effective Java》
+7. 原生javascript|jquery|ajax --- done 
+8. css基础 --- done
+9. Spring全部相关 --- done 
+10. mybatis3和生成器实操（www.atatech.org/articles/60148?flag_data_from=  http://blog.csdn.net/kenhins/article/details/44939873  example是条件)  
+11. 彻底读懂激励接口应用的每个细节  --- done 
+12.《精通linux》--- done
+13. 了解nginx和反向代理(网上学习，不用买书)，并学会安装使用
+14.《高性能MySQL》所有内容、MySQL连接池 
+15. 熟悉使用Redis(done)、Memcache(done)、MongoDB(ing)，以及各自优劣和适用场景
+16.《Computer Networking》--- 看过部分不用再看 
+17. maven使用 --- done
+18. git使用 --- done
+19. velocity --- done
+20. html(java web从入门到精通的看完即可，关注div，常见属性) --- done
+21. 高级debug --- done 
+22. spring各种常用annotation及原理 ---done
+23. Bootstrap基础 --- done
+24. Java设计模式书 --- done
+25.《Clean Codes》 --- done
+26. 集团编码规范 --- done
+27.《Java 8实战》 
+28.《图解性能优化》--- 看过部分不用再看 
+29.《计算机基础》第3章 --- done
+30.《计算机基础》第9章 --- done
+31. 算法:《Introduction to Algorithms》算法 --- P129, LEETCODE所有tag的学习刷题 --- ing
+32. NIO和Java高性能并发
+33. 《Java性能权威指南》
+
+
+
+进阶：
+1. Hadoop, MapReduce, Spark, Storm, Kafka, ZooKeeper, hbase
+2. 大量地看大企业服务端优秀架构
+3. 容器原理，docker容器(http://www.runoob.com/docker/docker-tutorial.html)
+4. 看懂码云上的例子
+
+
+
+
