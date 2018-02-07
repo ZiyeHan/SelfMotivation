@@ -50,6 +50,7 @@
 47. AWS服务器
 48. Jenkins，持续集成
 49. Tomcat原理
-
+50. leetcode熟练刷完500道高频题 ---ing
+51. github项目数达到10个+，5个多星项目(请求星星) ---ing
 
 
