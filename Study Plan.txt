@@ -53,5 +53,6 @@
 50. leetcode熟练刷完500道高频题 ---ing
 51. github项目数达到10个+，5个多星项目(请求星星) ---ing
 52. kubernetes
+53. 学习 Go 和 AngularJS (找工必备)
 
 
